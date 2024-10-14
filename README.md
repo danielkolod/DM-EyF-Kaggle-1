@@ -7,5 +7,5 @@ Toman el archivo competencia_01_crudo al inicio
 - `clase_ternaria`: agregado del target "clase_ternaria"
 - `723_preprocesamiento.r`: preprocesamiento de variables
 - `744_lightgbm_binaria_BO.r`: optimización bayesiana 
-- `bis745_lightgbm_final.r`: lightbm
+- `bis745_lightgbm_final.r`: lightgbm
 
